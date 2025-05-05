@@ -1,0 +1,28 @@
+body{
+	background: #9DD5F1
+}
+h1, h2{
+	text-align: center;
+	font-size: 28px;
+}
+.text1{
+	font-size: 20px; 
+}
+ol{
+	font-size: 18px; 
+}
+ul{
+	font-size: 18px; 
+}
+  .color{
+	  color: #1B1B1B
+	  text-align: center;
+	  font-size: 50px;
+  }
+ .logo{
+	 display: block;
+     margin-left: 0; 
+     margin-right: auto;
+	 width: 100px;
+	 height: 100px;
+ }
